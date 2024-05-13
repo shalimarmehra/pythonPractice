@@ -116,12 +116,12 @@
 # print(tup.index(78))
 # print(tup.count(45))
 
-print("Enter 3 movies which is your Favourite : ")
-FirstMovie = input("Enter Your First Movie Name : ")
-SecondMovie = input("Enter Your Second Movie Name : ")
-ThirdMovie = input("Enter Your Thirt Movie Name : ")
-
-MoviesList = [FirstMovie, SecondMovie, ThirdMovie]
-
-print(MoviesList)
-print(type(MoviesList))
+# print("Enter 3 movies which is your Favourite : ")
+# FirstMovie = input("Enter Your First Movie Name : ")
+# SecondMovie = input("Enter Your Second Movie Name : ")
+# ThirdMovie = input("Enter Your Third Movie Name : ")
+#
+# MoviesList = [FirstMovie, SecondMovie, ThirdMovie]
+#
+# print(MoviesList)
+# print(type(MoviesList))
