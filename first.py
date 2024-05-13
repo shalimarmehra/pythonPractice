@@ -81,13 +81,25 @@
 
 # List Method
 
-list = [1, 5, 7]
+# list = [1, 5, 7]
 
-list.append(4)
-print(list)
+# list.append(4)
+# print(list)
 
-list.sort()
-print(list)
+# list.sort()
+# print(list)
 
-list.sort(reverse=True)
-print(list)
+# list.sort(reverse=True)
+# print(list)
+
+# list.reverse()
+# print(list)
+
+# list.insert(4, 78.7845)
+# print(list)
+#
+# list.remove(5)
+# print(list)
+#
+# list.pop(2)
+# print(list)
