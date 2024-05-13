@@ -24,6 +24,7 @@
 # print(a >= b)
 
 # String & Conditional Statement ---------------------------------------------------------------------------------------
+# Strings are immutable that we cna not change the string value once if i created
 
 # str = "error"
 # print(str.endswith("or"))
@@ -64,6 +65,7 @@
 #     print("It's a Odd Number")
 
 #  List & Tuples -------------------------------------------------------------------------------------------------------
+# List are mutable = We can change the string name in a list.
 
 marks1 = 45.23
 marks2 = 86.45
