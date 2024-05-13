@@ -103,3 +103,16 @@
 #
 # list.pop(2)
 # print(list)
+
+# Tuple
+#  Tuple is immutable : we can not change the value
+
+# tup = (45, 48, 78, 45, 45)
+# print(type(tup))
+# print(tup)
+
+# Tuple Method
+
+# print(tup.index(78))
+# print(tup.count(45))
+
