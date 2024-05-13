@@ -66,13 +66,19 @@
 
 #  List & Tuples -------------------------------------------------------------------------------------------------------
 # List are mutable = We can change the string name in a list.
+# List Slicing
 
-marks1 = 45.23
-marks2 = 86.45
-marks3 = 45.12
-marks4 = 45.45
+# marks1 = 45.23
+# marks2 = 86.45
+# marks3 = 45.12
+# marks4 = 45.45
+#
+# marks = [45, 78.87646, 78, 78.4]
+#
+# print(marks[1])
+# print(type(marks))
+# print(marks[0:])
 
-marks = [45, 78.87646, 78, 78.4]
+# List Method
 
-print(marks[1])
-print(type(marks))
+list = [1, 5, 7]
