@@ -82,3 +82,12 @@
 # List Method
 
 list = [1, 5, 7]
+
+list.append(4)
+print(list)
+
+list.sort()
+print(list)
+
+list.sort(reverse=True)
+print(list)
