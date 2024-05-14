@@ -155,4 +155,9 @@ dict = {
     }
 }
 
-print(dict["nestDict"]["hindi"])
+# print(dict["nestDict"]["hindi"])
+
+print(dict.keys())
+print(dict.values())
+print(dict.items())
+print(dict.get("nestDict"))
