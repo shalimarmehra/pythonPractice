@@ -127,6 +127,8 @@
 # print(type(MoviesList))
 
 #  Dictionary & Sets ---------------------------------------------------------------------------------------------------
+# It's Mutable
+# Tuple is Key
 
 dict = {
     "name" : "shalimar",
@@ -134,4 +136,8 @@ dict = {
     "marks" : [54, 78, 78]
 }
 
+print(type(dict))
+print(dict)
 print(dict["marks"])
+dict["name"] = "Shalimar Mehra"
+print(dict["name"])
