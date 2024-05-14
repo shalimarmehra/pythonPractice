@@ -130,14 +130,29 @@
 # It's Mutable
 # Tuple is Key
 
+# dict = {
+#     "name" : "shalimar",
+#     "cgpa" : 9.0,
+#     "marks" : [54, 78, 78]
+# }
+#
+# print(type(dict))
+# print(dict)
+# print(dict["marks"])
+# dict["name"] = "Shalimar Mehra"
+# print(dict["name"])
+
+# Nested Dictionary
+
 dict = {
     "name" : "shalimar",
     "cgpa" : 9.0,
-    "marks" : [54, 78, 78]
+    "marks" : [54, 78, 78],
+    "nestDict" : {
+        "maths" : 78,
+        "eng" : 99,
+        "hindi" : 89
+    }
 }
 
-print(type(dict))
-print(dict)
-print(dict["marks"])
-dict["name"] = "Shalimar Mehra"
-print(dict["name"])
+print(dict["nestDict"]["hindi"])
