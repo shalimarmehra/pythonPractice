@@ -256,3 +256,10 @@
 #     print(table * a)
 #     a += 1
 
+num = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+num2 = ["sh", "jk", "lp"]
+
+a = 0
+while a < len(num):
+    print(num[a])
+    a += 1
