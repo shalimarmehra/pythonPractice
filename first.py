@@ -167,6 +167,24 @@
 # Sets:
 # Unique Value & immutable in Sets
 
-nums = {1, 2.5, "shmehra", tuple[4,5,]}
-print(type(nums))
-print(nums)
+# null_set = set()
+# print(type(null_set))
+
+# nums = {1, 2.5, "shmehra", tuple[4,5]}
+# print(type(nums))
+# print(nums)
+#
+# nums.add(45.788)
+# print(nums)
+#
+# nums.remove(1)
+# print(nums)
+
+# nums.clear()
+# print(nums)
+
+# nums.pop()
+# print(nums)
+
+# Set Methods
+
