@@ -208,3 +208,23 @@
 # print(word_Meaning)
 # print(word_Meaning["table"]["first_meaning"])
 
+# subject = {"Python", "Java", "C++", "C", "JavaScript"}
+#
+# print(len(subject))
+
+# marks = {}
+#
+# a = int(input("Enter Marks of Eco : "))
+# marks.update({"Eco Marks is " : a})
+#
+# b = int(input("Enter Marks of Acc : "))
+# marks.update({"Acc Marks is " : b})
+#
+# c = int(input("Enter Marks of Eng : "))
+# marks.update({"Eng Marks is " : c})
+#
+# print(marks)
+
+set = {9, "9.0"}
+
+print(set)
