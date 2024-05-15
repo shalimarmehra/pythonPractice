@@ -188,3 +188,11 @@
 
 # Set Methods
 
+# set = {4, 7, 6}
+# setTwo = {4, 5, 6}
+#
+# setThree = set.union(setTwo)
+# print(setThree)
+#
+# setFour = set.intersection(setTwo)
+# print(setFour)
