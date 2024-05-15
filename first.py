@@ -144,22 +144,29 @@
 
 # Nested Dictionary
 
-dict = {
-    "name" : "shalimar",
-    "cgpa" : 9.0,
-    "marks" : [54, 78, 78],
-    "nestDict" : {
-        "maths" : 78,
-        "eng" : 99,
-        "hindi" : 89
-    }
-}
+# dict = {
+#     "name" : "shalimar",
+#     "cgpa" : 9.0,
+#     "marks" : [54, 78, 78],
+#     "nestDict" : {
+#         "maths" : 78,
+#         "eng" : 99,
+#         "hindi" : 89
+#     }
+# }
 
 # print(dict["nestDict"]["hindi"])
 
-print(dict.keys())
-print(dict.values())
-print(dict.items())
-print(dict.get("nestDict"))
-dict.update({"city" : "Delhi"})
-print(dict)
+# print(dict.keys())
+# print(dict.values())
+# print(dict.items())
+# print(dict.get("nestDict"))
+# dict.update({"city" : "Delhi"})
+# print(dict)
+
+# Sets:
+# Unique Value & immutable in Sets
+
+nums = {1, 2.5, "shmehra", tuple[4,5,]}
+print(type(nums))
+print(nums)
