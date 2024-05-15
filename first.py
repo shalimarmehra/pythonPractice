@@ -196,3 +196,15 @@
 #
 # setFour = set.intersection(setTwo)
 # print(setFour)
+
+#  Practice Questions
+
+# word_Meaning = {
+#     "table" : { "first_meaning" : "a piece of furniture", "second_meaning": "list of facts & figures" },
+#     "cat" : "a small animal"
+# }
+#
+# print(type(word_Meaning))
+# print(word_Meaning)
+# print(word_Meaning["table"]["first_meaning"])
+
