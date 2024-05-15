@@ -232,7 +232,27 @@
 # Loops ----------------------------------------------------------------------------------------------------------------
 # While Loop
 
-a = 5
-while a <= 10:
-    print("Done")
-    a += 1
+# a = 5
+# while a <= 10:
+#     print("Done")
+#     a += 1
+#
+# print(a)
+
+# no = 1
+# while no <= 100:
+#     print(no)
+#     no += 1
+#
+# no2 = 100
+# while no2 >= 1:
+#     print(no2)
+#     no2 -= 1
+
+# table = int(input("Enter a Number : "))
+#
+# a = 1
+# while a <= 10:
+#     print(table * a)
+#     a += 1
+
