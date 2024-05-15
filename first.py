@@ -256,10 +256,20 @@
 #     print(table * a)
 #     a += 1
 
-num = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
-num2 = ["sh", "jk", "lp"]
+# num = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+# num2 = ["sh", "jk", "lp"]
+#
+# a = 0
+# while a < len(num):
+#     print(num[a])
+#     a += 1
 
-a = 0
-while a < len(num):
-    print(num[a])
-    a += 1
+# num = (45, 78, 70, 96)
+#
+# x = 78
+#
+# a = 0
+# while a < len(num):
+#     if num[a] == x:
+#         print("Found x Value at index no : ", a )
+#     a += 1
