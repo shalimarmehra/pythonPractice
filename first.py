@@ -326,10 +326,18 @@
 # for i in range(5):
 #     pass
 
-# n = 5
+# n = 50
 # sum = 0
-# for i in range(1, n+1):
+# i = 1
+# while i <= n:
 #     sum += i
-#
+#     i += 1
 # print("total sum =", sum)
 
+n = 5
+multiple = 1
+i = 1
+while i <= n:
+    multiple *= i
+    i += 1
+print("total * =", multiple)
