@@ -284,10 +284,52 @@
 #     i += 1
 # print("End the loop")
 
-i = 0
-while i <= 5:
-    if i == 3:
-        i += 1
-        continue
-    print(i)
-    i += 1
+# i = 0
+# while i <= 5:
+#     if i == 3:
+#         i += 1
+#         continue
+#     print(i)
+#     i += 1
+
+# For Loop : For traversing list, string, tuples etc.
+
+# nums = [1, 2, 3, 4, 5, 6]
+#
+# for val in nums:
+#     print(val)
+
+# nums = (1, 4, 9, 16, 25, 36, 9, 49, 64, 81, 100)
+# x = 9
+# idx = 0
+# for val in nums:
+#     if val == x:
+#         print("Number found at index no.", idx)
+#     idx += 1
+
+# range function
+
+# for i in range(2, 55, 6): # range(start, stop, step
+#     print(i)
+
+# for i in range(1, 101):
+#     print(i)
+
+# for i in range(100, 0, -1):
+#     print(i)
+
+# for i in range(1, 11):
+#     print(2 * i)
+
+# pass statement
+
+# for i in range(5):
+#     pass
+
+# n = 5
+# sum = 0
+# for i in range(1, n+1):
+#     sum += i
+#
+# print("total sum =", sum)
+
