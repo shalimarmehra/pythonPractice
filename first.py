@@ -345,10 +345,26 @@
 # Functions & Recursion ------------------------------------------------------------------------------------------------
 
 # Funtion defination
-def calculate(a, b): #parameters
-    sumOfTwoNumber = a + b
-    print(sumOfTwoNumber)
-    return sumOfTwoNumber
+# def calculate(a, b): #parameters
+#     sumOfTwoNumber = a + b
+#     print(sumOfTwoNumber)
+#     return sumOfTwoNumber
+#
+#
+# calculate(4, 5) # function cells & arguments
 
+# cities = ["delhi", "gurgaon", "noida", "pune"]
+# heroes = ["salman", "amir", "sharukh"]
+#
+# def print_len(list):
+#     print(list)
 
-calculate(4, 5) # function cells & arguments
+# print_len(cities)
+
+# def print_list(list):
+#     for items in list:
+#         print(items, end=" ")
+#
+# print_list(heroes)
+# print()
+
