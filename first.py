@@ -334,10 +334,21 @@
 #     i += 1
 # print("total sum =", sum)
 
-n = 5
-multiple = 1
-i = 1
-while i <= n:
-    multiple *= i
-    i += 1
-print("total * =", multiple)
+# n = 5
+# multiple = 1
+# i = 1
+# while i <= n:
+#     multiple *= i
+#     i += 1
+# print("total * =", multiple)
+
+# Functions & Recursion ------------------------------------------------------------------------------------------------
+
+# Funtion defination
+def calculate(a, b): #parameters
+    sumOfTwoNumber = a + b
+    print(sumOfTwoNumber)
+    return sumOfTwoNumber
+
+
+calculate(4, 5) # function cells & arguments
